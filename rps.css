@@ -1,0 +1,17 @@
+.main {
+    display: flexbox;
+}
+
+.scoreBoard {
+    display: flexbox;
+    flex-wrap: wrap;
+    border: 2px solid salmon;
+    background-color: aqua;
+    width: 50%;
+}
+
+p {
+    border: 2px solid maroon;
+    width: 100px;
+}
+
